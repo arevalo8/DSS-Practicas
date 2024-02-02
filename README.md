@@ -1,8 +1,6 @@
 # -dss2022--2023-UCAravanas_Rent
 Proyecto de la asignatura DSS 2022-2023
 
-Atención: Todo el contenido del proyecto está ahora en la rama main.
-
 ## Sistema de control de versiones de código
 GitHub
 
