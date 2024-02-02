@@ -40,7 +40,4 @@ Se hará uso del framework Spring para ayudarnos en las tareas de:
 - Conseguir la persistencia de los datos de la aplicación en una base de datos, gracias a Spring Data.
 - Desarrollar una versión web de la aplicación que utilice el protocolo HTTP, gracias a Spring Web.
 - Integrar un sistema de notificaciones para los clientes, gracias a Spring Mail.
-<<<<<<< HEAD
 
-=======
->>>>>>> branch 'master' of git@github.com:Xiorad1412/-dss2022--2023-UCAravanas_Rent.git
