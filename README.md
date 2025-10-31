@@ -1,5 +1,6 @@
 # -dss2022--2023-UCAravanas_Rent
 Proyecto de la asignatura DSS 2022-2023
+Sistema de gestión de  reserva caravanas realizado en Java, con una aplicación por línea de comandos (CLI) y una API REST desarrollada con Sprong Boot, probada y documentada con Swagger y OpenAPI.
 
 ## Sistema de control de versiones de código
 GitHub
